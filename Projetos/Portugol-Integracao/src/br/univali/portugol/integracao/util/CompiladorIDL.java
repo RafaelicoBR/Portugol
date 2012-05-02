@@ -10,11 +10,11 @@ import java.io.InputStreamReader;
  * @author Luiz Fernando Noschang
  * 
  */
-final class CompiladorIDLJava
+final class CompiladorIDL
 {
     public static void main(String[] argumentos) throws IOException
     {
-        CompiladorIDLJava compilador = new CompiladorIDLJava();
+        CompiladorIDL compilador = new CompiladorIDL();
         compilador.compilar();
     }
     
@@ -34,7 +34,7 @@ final class CompiladorIDLJava
             monitorSaidaProcesso.start();
             processoIdlj.waitFor();
             
-            System.out.println("As interfaces do arquivo Portugol.idl foram copiladas corretamente");
+            System.out.println("As interfaces do arquivo Portugol.idl foram compiladas corretamente");
             System.exit(0);
         }
         catch (Exception excecao)
