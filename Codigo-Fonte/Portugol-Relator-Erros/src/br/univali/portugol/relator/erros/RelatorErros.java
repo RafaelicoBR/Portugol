@@ -30,7 +30,7 @@ public final class RelatorErros
         try
         {
             propriedades = new Properties();
-            propriedades.load(getClass().getResourceAsStream("/relator-erros.properties"));
+            propriedades.load(getClass().getResourceAsStream("/portugol-relator-erros.properties"));
 
             propriedades.put("erro.aplicativo", aplicativo);
             propriedades.put("erro.versao", versao);
