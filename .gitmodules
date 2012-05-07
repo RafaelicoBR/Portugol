@@ -1,0 +1,3 @@
+[submodule "Projetos/Portugol-Studio"]
+	path = Projetos/Portugol-Studio
+	url = git://github.com/UNIVALI-L2S/Portugol-Studio
