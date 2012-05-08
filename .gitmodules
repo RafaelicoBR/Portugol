@@ -7,3 +7,6 @@
 [submodule "Projetos/Portugol-Nucleo"]
 	path = Projetos/Portugol-Nucleo
 	url = git://github.com/UNIVALI-L2S/Portugol-Nucleo
+[submodule "Projetos/Portugol-Integracao"]
+	path = Projetos/Portugol-Integracao
+	url = git://github.com/UNIVALI-L2S/Portugol-Integracao
