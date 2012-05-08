@@ -10,3 +10,6 @@
 [submodule "Projetos/Portugol-Integracao"]
 	path = Projetos/Portugol-Integracao
 	url = git://github.com/UNIVALI-L2S/Portugol-Integracao
+[submodule "Projetos/Portugol-Integracao-CSharp"]
+	path = Projetos/Portugol-Integracao-CSharp
+	url = git://github.com/UNIVALI-L2S/Portugol-Integracao-CSharp
