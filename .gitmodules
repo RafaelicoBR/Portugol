@@ -13,3 +13,6 @@
 [submodule "Projetos/Portugol-Integracao-CSharp"]
 	path = Projetos/Portugol-Integracao-CSharp
 	url = git://github.com/UNIVALI-L2S/Portugol-Integracao-CSharp
+[submodule "Projetos/Portugol-WebService"]
+	path = Projetos/Portugol-WebService
+	url = git://github.com/UNIVALI-L2S/Portugol-WebService
