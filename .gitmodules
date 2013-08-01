@@ -19,3 +19,6 @@
 [submodule "Projetos/Portugol-Relator-Erros"]
 	path = Projetos/Portugol-Relator-Erros
 	url = git@github.com:UNIVALI-L2S/Portugol-Relator-Erros.git
+[submodule "Projetos/Portugol-Ajuda"]
+	path = Projetos/Portugol-Ajuda
+	url = https://github.com/UNIVALI-L2S/Portugol-Ajuda.git
