@@ -1,24 +1,24 @@
 [submodule "Projetos/Portugol-Studio"]
 	path = Projetos/Portugol-Studio
-	url = git@github.com:UNIVALI-L2S/Portugol-Studio.git
+	url = https://github.com/UNIVALI-L2S/Portugol-Studio.git
 [submodule "Projetos/Portugol-Corretor"]
 	path = Projetos/Portugol-Corretor
-	url = git@github.com:UNIVALI-L2S/Portugol-Corretor.git
+	url = https://github.com/UNIVALI-L2S/Portugol-Corretor.git
 [submodule "Projetos/Portugol-Nucleo"]
 	path = Projetos/Portugol-Nucleo
-	url = git@github.com:UNIVALI-L2S/Portugol-Nucleo.git
+	url = https://github.com/UNIVALI-L2S/Portugol-Nucleo.git
 [submodule "Projetos/Portugol-Integracao"]
 	path = Projetos/Portugol-Integracao
-	url = git@github.com:UNIVALI-L2S/Portugol-Integracao.git
+	url = https://github.com/UNIVALI-L2S/Portugol-Integracao.git
 [submodule "Projetos/Portugol-Integracao-CSharp"]
 	path = Projetos/Portugol-Integracao-CSharp
-	url = git@github.com:UNIVALI-L2S/Portugol-Integracao-CSharp.git
+	url = https://github.com/UNIVALI-L2S/Portugol-Integracao-CSharp.git
 [submodule "Projetos/Portugol-WebService"]
 	path = Projetos/Portugol-WebService
-	url = git@github.com:UNIVALI-L2S/Portugol-WebService.git
+	url = https://github.com/UNIVALI-L2S/Portugol-WebService.git
 [submodule "Projetos/Portugol-Relator-Erros"]
 	path = Projetos/Portugol-Relator-Erros
-	url = git@github.com:UNIVALI-L2S/Portugol-Relator-Erros.git
+	url = https://github.com/UNIVALI-L2S/Portugol-Relator-Erros.git
 [submodule "Projetos/Portugol-Ajuda"]
 	path = Projetos/Portugol-Ajuda
 	url = https://github.com/UNIVALI-L2S/Portugol-Ajuda.git
