@@ -22,3 +22,9 @@
 [submodule "Projetos/Portugol-Ajuda"]
 	path = Projetos/Portugol-Ajuda
 	url = https://github.com/UNIVALI-L2S/Portugol-Ajuda.git
+[submodule "Projetos/Portugol-Console"]
+	path = Projetos/Portugol-Console
+	url = http://github.com/UNIVALI-L2S/Portugol-Console.git
+[submodule "Projetos/Portugol-Instalador"]
+	path = Projetos/Portugol-Instalador
+	url = http://github.com/UNIVALI-L2S/Portugol-Instalador.git
