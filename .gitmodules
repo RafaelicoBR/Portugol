@@ -28,3 +28,6 @@
 [submodule "Projetos/Portugol-Instalador"]
 	path = Projetos/Portugol-Instalador
 	url = http://github.com/UNIVALI-L2S/Portugol-Instalador.git
+[submodule "Projetos/Portugol-Exemplos"]
+	path = Projetos/Portugol-Exemplos
+	url = http://github.com/UNIVALI-L2S/Portugol-Exemplos
