@@ -31,3 +31,6 @@
 [submodule "Projetos/Portugol-Exemplos"]
 	path = Projetos/Portugol-Exemplos
 	url = http://github.com/UNIVALI-L2S/Portugol-Exemplos
+[submodule "Projetos/Portugol-Conteudo-Ajuda"]
+	path = Projetos/Portugol-Conteudo-Ajuda
+	url = https://git@github.com/UNIVALI-L2S/Portugol-Conteudo-Ajuda
