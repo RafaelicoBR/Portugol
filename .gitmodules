@@ -34,3 +34,12 @@
 [submodule "Projetos/Portugol-Conteudo-Ajuda"]
 	path = Projetos/Portugol-Conteudo-Ajuda
 	url = https://git@github.com/UNIVALI-L2S/Portugol-Conteudo-Ajuda
+[submodule "Projetos/Portugol-Studio-Plugins"]
+	path = Projetos/Portugol-Studio-Plugins
+	url = https://github.com/UNIVALI-L2S/Portugol-Studio-Plugins.git
+[submodule "Projetos/Portugol-Utils"]
+	path = Projetos/Portugol-Utils
+	url = https://github.com/UNIVALI-L2S/Portugol-Utils.git
+[submodule "Projetos/C-Nucleo"]
+	path = Projetos/C-Nucleo
+	url = https://github.com/UNIVALI-L2S/C-Nucleo.git
