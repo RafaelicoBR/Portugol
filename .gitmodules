@@ -43,3 +43,9 @@
 [submodule "Projetos/C-Nucleo"]
 	path = Projetos/C-Nucleo
 	url = https://github.com/UNIVALI-L2S/C-Nucleo.git
+[submodule "Projetos/Portugol-Studio-Recursos"]
+	path = Projetos/Portugol-Studio-Recursos
+	url = http://github.com/UNIVALI-L2S/Portugol-Studio-Recursos.git
+[submodule "Projetos/Portugol-Studio-Inicializador"]
+	path = Projetos/Portugol-Studio-Inicializador
+	url = http://github.com/UNIVALI-L2S/Portugol-Studio-Inicializador.git
