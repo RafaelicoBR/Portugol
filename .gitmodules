@@ -49,3 +49,6 @@
 [submodule "Projetos/Portugol-Studio-Inicializador"]
 	path = Projetos/Portugol-Studio-Inicializador
 	url = http://github.com/UNIVALI-L2S/Portugol-Studio-Inicializador.git
+[submodule "Projetos/Portugol-Studio-Site"]
+	path = Projetos/Portugol-Studio-Site
+	url = https://github.com/UNIVALI-L2S/Portugol-Studio-Site
